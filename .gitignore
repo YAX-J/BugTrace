@@ -6,3 +6,11 @@ docs/*
 !docs/decisions/
 docs/decisions/*
 !docs/decisions/*.md
+
+node_modules/
+dist/
+coverage/
+.env
+.env.*
+!.env.example
+*.local
